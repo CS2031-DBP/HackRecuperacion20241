@@ -1,4 +1,4 @@
-# Hackaton 1 - CS2031 Desarrollo Basado en Plataformas Ciclo 2024-1 🎶✨
+# Hackaton 1 - CS2031 Desarrollo Basado en Plataformas Ciclo 2024-1 🎧✨
 
 ## Calificación 
 
