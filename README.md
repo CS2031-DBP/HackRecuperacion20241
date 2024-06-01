@@ -50,6 +50,7 @@ classDiagram
         +int idUser
         +String nombre
         +String email
+        +String password
         +Date fechaDeRegistro
     }
 
